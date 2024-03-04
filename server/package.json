@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.8.1",
+    "graphql-constraint-directive": "^5.3.0",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.2"
+  }
+}
